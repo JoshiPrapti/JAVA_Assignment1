@@ -1,0 +1,22 @@
+/* This styles the buttons with a blue background (#0078d7), white text, padding, and rounded corners */
+.root {
+    -fx-background-color: #f0f0f0;
+}
+
+/* This sets the background color of the pie chart to white (#ffffff) */
+.button {
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+    -fx-padding: 10 20;
+    -fx-background-radius: 5;
+}
+
+/* This sets the background color of the pie chart to white (#ffffff) */
+.pie-chart {
+    -fx-background-color: #ffffff;
+}
+
+/* This sets the background color of the table view to white (#ffffff) */
+.table-view {
+    -fx-background-color: #ffffff;
+}
